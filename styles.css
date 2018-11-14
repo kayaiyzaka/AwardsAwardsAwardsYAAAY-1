@@ -1,0 +1,30 @@
+h1{
+    color:lightskyblue;
+  font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive;  
+    }
+    
+h3{
+    color:orange;
+   font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive;
+font-family: 'Cookie', cursive; 
+    }
+    
+body{
+    background:url("https://i.ytimg.com/vi/jPVdfl9St50/maxresdefault.jpg");
+    background-size:cover;
+}
+.gif{
+    height:200px;
+    }
+ol{
+  color:mistyrose;  
+    }    
+ul{
+  color:mistyrose;  
+    }   
+h2{
+   color:azure;
+font-family: 'Kumar One Outline', cursive;
+    }   
